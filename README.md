@@ -13,7 +13,7 @@ knowledge the domains of logic and mathematics contain.
 
 # Foreword
 
-This guide is not yet finished. If you see errors or want to contribute, please [open a ticket](https://github.com/tgelu/math-as-code/issues) or send a PR.
+This guide is not yet finished. If you see errors or want to contribute, please [open a ticket](https://github.com/tgelu/code-as-math/issues) or send a PR.
 
 From here on the use of *code* will refer to [purely functional code](https://en.wikipedia.org/wiki/Purely_functional_programming). This is
 to make it obvious that what is said to be true about *code* only applies to
@@ -28,9 +28,11 @@ For a guide aimed at explaining mathematics and logic in an imperative language 
 # Contents
 
 
+
+
 ## More...
 
-Like this guide? Suggest some [more features](https://github.com/tgelu/math-as-code/issues/1) or send us a Pull Request!
+Like this guide? Suggest some [more features](https://github.com/tgelu/code-as-math/issues/1) or send us a Pull Request!
 
 ## Contributing
 
@@ -38,8 +40,4 @@ For details on how to contribute, see [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ## License
 
-MIT, see [LICENSE.md](http://github.com/tgelu/math-as-code/blob/master/LICENSE.md) for details.
-
-[1]: http://mimosa-pudica.net/improved-oren-nayar.html#images
-[2]: http://buzzard.ups.edu/courses/2007spring/projects/million-paper.pdf
-[3]: https://www.math.washington.edu/~morrow/464_12/fft.pdf
+MIT, see [LICENSE.md](http://github.com/tgelu/code-as-math/blob/master/LICENSE) for details.
